@@ -1,5 +1,5 @@
 ## 个人信息 / Personal Infomation
-* 高二在读学生 / Senior 2 Student ~~（我不管，反正女人至死是少女）~~
+* 高三在读学生 / Senior 2 Student ~~（我不管，反正女人至死是少女）~~
 * 跨性别女性 / Transgender Girl 🏳️‍⚧️
 * 业余Python自由开发者（~~其实业余都不如~~） / Amateur developer
 

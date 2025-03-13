@@ -7,13 +7,6 @@
 * 读书
 * 准备各种计算机竞赛
 
-## 如何联系我 / How to contact me
-[Email:misaka@mis1042.com](mailto:misaka@mis1042.com)  
-[Misaka`s Blog](https://www.mis1042.com)  
-
-## 我的网站
-[Misaka`s Blog](https://www.mis1042.com)  
-
 ## 夹带私货
 ```
 不向焦虑与抑郁投降，这个世界终会有我们存在的地方

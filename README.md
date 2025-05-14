@@ -1,11 +1,9 @@
 ## 个人信息 / Personal Infomation
-* 高三在读学生 / Senior 2 Student ~~（我不管，反正女人至死是少女）~~
-* 跨性别女性 / Transgender Girl 🏳️‍⚧️
+* 高三在读学生 / Senior 3 Student
 * 业余Python自由开发者（~~其实业余都不如~~） / Amateur developer
 
 ## 我在做什么 / What am I doing
 * 读书
-* 准备各种计算机竞赛
 
 ## 夹带私货
 ```

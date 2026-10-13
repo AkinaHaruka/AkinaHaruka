@@ -11,7 +11,11 @@
   <img src="https://img.shields.io/badge/Embedded-7C3AED?style=flat-square" alt="嵌入式 / Embedded">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Networking-0F766E?style=flat-square" alt="计算机网络 / Computer networking">
+  <img src="https://img.shields.io/badge/DN42-475569?style=flat-square" alt="DN42">
 </p>
+
+<p><a href="https://www.akinachan.com/"><strong>Project Akina · 我的博客 / My blog ↗</strong></a></p>
 
 </div>
 
@@ -19,8 +23,8 @@
 
 - **电子信息专业，大一在读。**<br>
   First-year university student studying Electronic Information.
-- **学习与使用的技术：嵌入式、C++、Python。**<br>
-  Learning and working with embedded systems, C++, and Python.
+- **学习与使用的技术：嵌入式、C++、Python、计算机网络与 DN42。**<br>
+  Learning and working with embedded systems, C++, Python, computer networking, and DN42.
 - **最近在做什么？在大学上课。**<br>
   Currently attending university classes.
 
